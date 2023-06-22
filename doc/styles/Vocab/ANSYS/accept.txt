@@ -11,6 +11,7 @@ dataframes
 datagrams
 dependabot
 Dependabot
+deserialization
 Dev
 Docformatter
 Docstring
@@ -36,6 +37,7 @@ Isort
 isort
 linenos
 matplotlib
+metapackage
 monospaced
 Namespace
 namespace
@@ -62,6 +64,7 @@ pytest
 Python
 python
 pythoncom
+PyUp
 pyvista
 RPC
 scipy
@@ -71,6 +74,7 @@ SSH
 subpackages
 uncomment
 unittest
+untrusted
 venv
 worktree
 Sphinx
